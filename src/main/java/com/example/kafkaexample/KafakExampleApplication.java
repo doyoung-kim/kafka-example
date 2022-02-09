@@ -1,4 +1,4 @@
-package com.example.kafakexample;
+package com.example.kafkaexample;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

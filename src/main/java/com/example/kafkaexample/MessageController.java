@@ -1,4 +1,4 @@
-package com.example.kafakexample;
+package com.example.kafkaexample;
 
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.PostMapping;
