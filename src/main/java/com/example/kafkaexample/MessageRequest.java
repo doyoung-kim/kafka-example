@@ -1,4 +1,4 @@
-package com.example.kafakexample;
+package com.example.kafkaexample;
 
 public record MessageRequest(String message) {
 }
