@@ -13,7 +13,7 @@ kafka example
 > 관리해주는 역할을 하는것이 Zookeeper이다. kafka 서버를 띄우기 앞서 Zookeeper를 반드시 띄워야 한다.
 
 ## Zookeeper 실행
-`.\zookeeper-server-start.bat ..\..\config\zookeeper.properti`
+`.\zookeeper-server-start.bat ..\..\config\zookeeper.properties`
 > 위의 명령어를 실행하면 이상태로 놔두고 새로운 cmd로 kafka 서버를 실행한다.
 
 ## kafka 서버 실행
