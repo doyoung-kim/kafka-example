@@ -23,9 +23,9 @@ kafka example
 
 ## 실행 확인
 `netstat -a`
-> 2181 port, 9092 port 실행 되는걸 확인 한다.
-> 2181 port zookeeper
-> 9092 port kafka default port
+- 2181 port, 9092 port 실행 되는걸 확인 한다.
+- 2181 port zookeeper
+- 9092 port kafka default port
 
 ## 이벤트 읽기
 https://kafka.apache.org/quickstart#quickstart_consume
