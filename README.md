@@ -29,7 +29,7 @@ kafka example
 
 ## 이벤트 읽기
 https://kafka.apache.org/quickstart#quickstart_consume
-> .\bin/kafka-console-consumer.bat --topic doyoungcode --from-beginning --bootstrap-server localhost:9092
+`.\bin/kafka-console-consumer.bat --topic doyoungcode --from-beginning --bootstrap-server localhost:9092`
 > 위 명령어를 cmd에서 실행
 
 
