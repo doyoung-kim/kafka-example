@@ -18,3 +18,17 @@
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | docker1 | TCP | 127.0.0.1 | 105 | 10.100.0.105 | 22 |
 | docker2 | TCP | 127.0.0.1 | 106 | 10.100.0.106 | 22 |
+
+
+## Ubuntu 설정
+1. 패스워드 설정
+> sudo passwd root
+* root 패스워드는 12345 설정
+
+2. SSH 서버 설치 후 운영
+* apt-get update
+* apt-get install -y openssh-server curl vim tree
+* putty && putty manager 설치
+
+
+
